@@ -1,4 +1,4 @@
-class Hellocli < Formula
+class HellocliAT001 < Formula
   desc ""
   homepage ""
   url "https://github.com/alysoliman1/cli/archive/refs/tags/v.0.0.1.tar.gz"
