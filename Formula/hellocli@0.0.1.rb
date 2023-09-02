@@ -7,7 +7,6 @@ class Hellocli < Formula
   def install
     puts Dir.pwd
   end
-
   test do
     hellocli
   end
